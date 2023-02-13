@@ -1,0 +1,8 @@
+echo "Enter the first string:" read strl 
+echo "Enter the second string 
+read str2 
+f [ $strl = Sstr2 ] 
+then 
+echo "'strings are equal"
+else 
+echo "strings are not equal"
