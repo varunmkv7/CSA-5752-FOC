@@ -1,0 +1,9 @@
+echo "Enter a string"
+read strI 
+len= echo $str |wc -c 
+while [$len -gt 0] 
+do 
+temp- echo $str |cut-c $len' 
+rev= echo $rev $temp len="expr $len-1' 
+done 
+echo The reversed string is $rev"
