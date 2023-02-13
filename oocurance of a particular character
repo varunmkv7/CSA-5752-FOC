@@ -1,0 +1,13 @@
+echo "Enter the string" re'ad sl 
+echo "Enter the character to be searches" read cl1 
+1=echo $sl |wc-c 
+=expr $1-1°
+X=0 
+while [$1 -gt 0] 
+do 
+t=echo $sl | cut -c $1' 
+if [St==$cl] 
+then 
+X=expr $x+1° 
+fi 
+F'expr $1+1'
