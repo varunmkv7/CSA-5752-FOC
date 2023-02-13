@@ -1,0 +1,4 @@
+echo "Enter a upper case string" its upper case 
+read str 
+temp='echo $str |+v [a-2]{A Z]
+echo "The changed case string is temp" 
